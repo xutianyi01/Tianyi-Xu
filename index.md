@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Biography
+I am currently a PhD student in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my Master and Bachelor degree both from [Tianjin University](http://www.tju.edu.cn/). 
+My current research interests include optimization, algorithms and machine learning. Now I am the TA of Intro to Computer Science I. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
+## Education
 
-You can use the [editor on GitHub](https://github.com/xutianyi01/Tianyi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+ *Master of Engineering*, Industrial Engineering, Tianjin University, China
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
-### Markdown
+## Research Interests
+Optimization, Machine learning, Algorithms and Operation research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
+Lin Y, Xu T, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering.
 
-```markdown
-Syntax highlighted code block
+Lin Y, Bian Z, Sun S, Xu T. A two-stage simulated annealing algorithm for the many-to-many milk-run routing problem with pipeline inventory cost[J]. Mathematical Problems in Engineering.
 
-# Header 1
-## Header 2
-### Header 3
+LIN Y, XU T. Vehicle Scheduling with Time Windows and Inbound Crossing Restrictions in the Milk Run[J]. Industrial Engineering and Management.
 
-- Bulleted
-- List
+## Working Experience
 
-1. Numbered
-2. List
+Dalian Neusoft University of Information    
+Lecturer in Information Management Department
 
-**Bold** and _Italic_ and `Code` text
+14th Institution of  China Electronics Technology Group Corporation   
+Project management assistant
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xutianyi01/Tianyi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
