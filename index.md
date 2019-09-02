@@ -1,5 +1,5 @@
 ## Biography
-I am currently a PhD student in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my Master and Bachelor degree both from [Tianjin University](http://www.tju.edu.cn/). 
+I am currently a PhD student in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). 
 My current research interests include optimization, algorithms and machine learning. Now I am the TA of Intro to Computer Science I. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
@@ -8,14 +8,14 @@ My current research interests include optimization, algorithms and machine learn
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Optimization, Machine learning, Algorithms and Operation research
+Optimization, Machine learning, Algorithms and Operations research
 
 ## Publications
-Lin Y, Xu T, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering.
+Lin Y, Xu T, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering, 2015.
 
-Lin Y, Bian Z, Sun S, Xu T. A two-stage simulated annealing algorithm for the many-to-many milk-run routing problem with pipeline inventory cost[J]. Mathematical Problems in Engineering.
+Lin Y, Bian Z, Sun S, Xu T. A two-stage simulated annealing algorithm for the many-to-many milk-run routing problem with pipeline inventory cost[J]. Mathematical Problems in Engineering, 2015.
 
-LIN Y, XU T. Vehicle Scheduling with Time Windows and Inbound Crossing Restrictions in the Milk Run[J]. Industrial Engineering and Management.
+LIN Y, XU T. Vehicle Scheduling with Time Windows and Inbound Crossing Restrictions in the Milk Run[J]. Industrial Engineering and Management, 2015, 1: 5.
 
 ## Working Experience
 
