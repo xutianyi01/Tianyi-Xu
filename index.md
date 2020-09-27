@@ -1,6 +1,6 @@
 ## Biography
 I am currently a PhD student in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). 
-My current research interests include optimization, machine learning algorithms. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
+My current research interests include optimization, machine learning and algorithms. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
  *Master of Engineering*, Industrial Engineering, Tianjin University, China
