@@ -1,6 +1,6 @@
 ## Biography
 I am currently a PhD student in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). 
-My current research interests include optimization, algorithms and machine learning. Now I am the TA of Intro to Computer Science I. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
+My current research interests include optimization, machine learning algorithms. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
  *Master of Engineering*, Industrial Engineering, Tianjin University, China
@@ -11,6 +11,8 @@ My current research interests include optimization, algorithms and machine learn
 Optimization, Machine learning, Algorithms and Operations research
 
 ## Publications
+Xu T, Ozbek O I, Marks S, et al. Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
+
 Lin Y, Xu T, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering, 2015.
 
 Lin Y, Bian Z, Sun S, Xu T. A two-stage simulated annealing algorithm for the many-to-many milk-run routing problem with pipeline inventory cost[J]. Mathematical Problems in Engineering, 2015.
