@@ -11,7 +11,7 @@ My current research interests include optimization, machine learning and algorit
 Optimization, Machine learning, Algorithms and Operations research
 
 ## Publications
-[Technical report of Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://drive.google.com/file/d/10cKTG9rIYHB-0fOi0wzgw-y0-cX3xfIB/view?usp=sharing)
+[Technical report of "Joint AP Probing and Scheduling: A Contextual Bandit Approach"](https://drive.google.com/file/d/10cKTG9rIYHB-0fOi0wzgw-y0-cX3xfIB/view?usp=sharing)
 
 Xu T, Ozbek O I, Marks S, et al. Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
 
