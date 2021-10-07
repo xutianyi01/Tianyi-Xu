@@ -13,7 +13,7 @@ Optimization, Machine learning, Algorithms and Operations research
 ## Publications
 **Xu, T.**, Zhang, D., Pathak, P. H., & Zheng, Z. [Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297). IEEE Military Communications Conference (MILCOM), Nov. 2021.
 
-**Xu T**, Ozbek O I, Marks S, et al. [Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping](https://www.researchgate.net/profile/Benyamin-Ahmadnia/publication/343252553_Spanish-Turkish_Low-Resource_Machine_Translation_Unsupervised_Learning_vs_Round-Tripping/links/5f1f9263a6fdcc9626b9e05a/Spanish-Turkish-Low-Resource-Machine-Translation-Unsupervised-Learning-vs-Round-Tripping.pdf)[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
+**Xu T**, Ozbek O I, Marks S, et al. [Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping](http://www.sciencepublishinggroup.com/journal/paperinfo?journalid=542&doi=10.11648/j.ajai.20200402.11)[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
 
 Lin Y, **Xu T**<sup>*</sup>, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering, 2015.
 
