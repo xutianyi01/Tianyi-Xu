@@ -11,7 +11,7 @@ My current research interests include optimization, machine learning and algorit
 Optimization, Machine learning, Algorithms and Operations research
 
 ## Publications
-Xu, T., Zhang, D., Pathak, P. H., & Zheng, Z.[Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297).IEEE Military Communications Conference (MILCOM), Nov. 2021.
+Xu, T., Zhang, D., Pathak, P. H., & Zheng, Z. [Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297). IEEE Military Communications Conference (MILCOM), Nov. 2021.
 
 Xu T, Ozbek O I, Marks S, et al. [Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping](https://www.researchgate.net/profile/Benyamin-Ahmadnia/publication/343252553_Spanish-Turkish_Low-Resource_Machine_Translation_Unsupervised_Learning_vs_Round-Tripping/links/5f1f9263a6fdcc9626b9e05a/Spanish-Turkish-Low-Resource-Machine-Translation-Unsupervised-Learning-vs-Round-Tripping.pdf)[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
 
