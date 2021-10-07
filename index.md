@@ -15,11 +15,11 @@ Optimization, Machine learning, Algorithms and Operations research
 
 **Xu T**, Ozbek O I, Marks S, et al. [Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping](https://www.researchgate.net/profile/Benyamin-Ahmadnia/publication/343252553_Spanish-Turkish_Low-Resource_Machine_Translation_Unsupervised_Learning_vs_Round-Tripping/links/5f1f9263a6fdcc9626b9e05a/Spanish-Turkish-Low-Resource-Machine-Translation-Unsupervised-Learning-vs-Round-Tripping.pdf)[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
 
-Lin Y, **Xu T**, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering, 2015.
+Lin Y, **Xu T**<sup>*</sup>, Bian Z. A two-phase heuristic algorithm for the common frequency routing problem with vehicle type choice in the milk run[J]. Mathematical Problems in Engineering, 2015.
 
 Lin Y, Bian Z, Sun S, **Xu T**. A two-stage simulated annealing algorithm for the many-to-many milk-run routing problem with pipeline inventory cost[J]. Mathematical Problems in Engineering, 2015.
 
-LIN Y, **XU T**. Vehicle Scheduling with Time Windows and Inbound Crossing Restrictions in the Milk Run[J]. Industrial Engineering and Management, 2015, 1: 5.
+LIN Y, **XU T**<sup>*</sup>. Vehicle Scheduling with Time Windows and Inbound Crossing Restrictions in the Milk Run[J]. Industrial Engineering and Management, 2015, 1: 5.
 
 ## Working Experience
 
