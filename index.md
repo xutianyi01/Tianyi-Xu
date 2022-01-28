@@ -3,6 +3,8 @@ I am currently a PhD student in the department of Computer Science, [Tulane Univ
 My current research interests include optimization, machine learning and algorithms. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
+ *PhD*, Computer Science, Tulane University, USA (now)
+ 
  *Master of Engineering*, Industrial Engineering, Tianjin University, China
 
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
