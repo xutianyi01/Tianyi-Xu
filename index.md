@@ -29,7 +29,7 @@ Dalian Neusoft University of Information 
 Lecturer in Information Management Department
 
 14th Institution of  China Electronics Technology Group Corporation   
-Project management assistant
+Algorithm engineer and Project management assistant
 
 
 
