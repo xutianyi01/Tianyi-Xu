@@ -13,6 +13,9 @@ My current research interests include optimization, machine learning and algorit
 Optimization, Machine learning, Algorithms and Operations research
 
 ## Publications
+
+**Xu, T.**, Zhang, D., & Zheng, Z. Online Learning for Adaptive Probing and Scheduling in Dense WLANs.IEEE International Conference on Computer Communications (INFOCOM), 2023
+
 **Xu, T.**, Zhang, D., Pathak, P. H., & Zheng, Z. [Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297v3). IEEE Military Communications Conference (MILCOM), Nov. 2021.
 
 **Xu T**, Ozbek O I, Marks S, et al. [Spanish-Turkish Low-Resource Machine Translation: Unsupervised Learning vs Round-Tripping](http://www.sciencepublishinggroup.com/journal/paperinfo?journalid=542&doi=10.11648/j.ajai.20200402.11)[J]. American Journal of Artificial Intelligence, 2020, 4(2): 42-49.
