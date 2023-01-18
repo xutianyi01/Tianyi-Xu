@@ -14,7 +14,7 @@ Optimization, Machine learning, Algorithms and Operations research
 
 ## Publications
 
-**Xu, T.**, Zhang, D., & Zheng, Z. Online Learning for Adaptive Probing and Scheduling in Dense WLANs. IEEE International Conference on Computer Communications (INFOCOM), 2023.
+**Xu, T.**, Zhang, D., & Zheng, Z. [Online Learning for Adaptive Probing and Scheduling in Dense WLANs](https://arxiv.org/abs/2212.13585). IEEE International Conference on Computer Communications (INFOCOM), 2023.
 
 **Xu, T.**, Zhang, D., Pathak, P. H., & Zheng, Z. [Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297v3). IEEE Military Communications Conference (MILCOM), Nov. 2021.
 
