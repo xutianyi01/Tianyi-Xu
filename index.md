@@ -17,20 +17,20 @@ Machine learning, Optimazation, Algorithms, NLP and Operations research
 Dalian Neusoft University of Information    
 Lecturer in Information Management Department
 
-14th Institution of  China Electronics Technology Group Corporation   
+14th Institution of China Electronics Technology Group Corporation   
 Algorithm engineer and Project management assistant
 
 ## Internship Experience
-China Automotive Technology and Research Center
+China Automotive Technology and Research Center,
 Quality Management Engineer Intern
 
-Caterpillar China
+Caterpillar China,
 Supply Chain Management Intern
 
-Danfoss China
+Danfoss China,
 IE Intern
 
-Amazon China
+Amazon China,
 Returned Goods Process Improver
 
 ## Languages and Skills
