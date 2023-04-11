@@ -1,6 +1,6 @@
 ## Biography
 I am currently a PhD candidate in the department of Computer Science, [Tulane University](https://tulane.edu/), advised by [Prof. Zizhan Zheng](https://sse.tulane.edu/node/3486). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). 
-My current research interests include optimization, machine learning and algorithms. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
+My current research interests include Machine learning, Optimazation, Algorithms, NLP and Operations research. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
  *PhD* candidate, Computer Science, Tulane University, USA (now)
@@ -10,7 +10,32 @@ My current research interests include optimization, machine learning and algorit
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Optimization, Machine learning, Algorithms and Operations research
+Machine learning, Optimazation, Algorithms, NLP and Operations research
+
+## Working Experience
+
+Dalian Neusoft University of Information    
+Lecturer in Information Management Department
+
+14th Institution of  China Electronics Technology Group Corporation   
+Algorithm engineer and Project management assistant
+
+## Internship Experience
+China Automotive Technology and Research Center
+Quality Management Engineer Intern
+
+Caterpillar China
+Supply Chain Management Intern
+
+Danfoss China
+IE Intern
+
+Amazon China
+Returned Goods Process Improver
+
+## Languages and Skills
+Python, R, Java, C++, C, Latex, Pandas, Matlab, Tensorflow, Keras, Scikit, Numpy, OR-tools, Linux,
+SPSS, Flexsim, Gurobi, Project, CAD, PROE
 
 ## Publications
 
@@ -25,14 +50,4 @@ Lin Y, **Xu T**<sup>*</sup>, Bian Z. A two-phase heuristic algorithm for the com
 Lin Y, Bian Z, Sun S, **Xu T**. A two-stage simulated annealing algorithm for the many-to-many milk-run routing problem with pipeline inventory cost[J]. Mathematical Problems in Engineering, 2015.
 
 LIN Y, **XU T**<sup>*</sup>. Vehicle Scheduling with Time Windows and Inbound Crossing Restrictions in the Milk Run[J]. Industrial Engineering and Management, 2015, 1: 5.
-
-## Working Experience
-
-Dalian Neusoft University of Information    
-Lecturer in Information Management Department
-
-14th Institution of  China Electronics Technology Group Corporation   
-Algorithm engineer and Project management assistant
-
-
 
