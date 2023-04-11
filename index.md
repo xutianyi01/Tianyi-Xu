@@ -21,6 +21,9 @@ Lecturer in Information Management Department
 Algorithm engineer and Project management assistant
 
 ## Internship Experience
+Xuelangyun,
+Algorithm Engineer Intern
+
 China Automotive Technology and Research Center,
 Quality Management Engineer Intern
 
