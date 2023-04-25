@@ -10,7 +10,7 @@ My current research interests include Machine learning, Optimazation, Algorithms
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Machine learning(DL and RL), Optimazation, Algorithms, NLP and Operations research
+Machine learning(DL and DRL), Optimazation, Algorithms, NLP and Operations research
 
 ## Working Experience
 
