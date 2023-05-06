@@ -37,7 +37,7 @@ Amazon China,
 Returned Goods Process Improver
 
 ## Languages and Skills
-Python, R, Java, C++, C, Latex, Pandas, Matlab, Tensorflow, Keras, Pytorch, Scikit, Numpy, OR-tools, Linux,
+Python, R, Java, C++, C, Latex, Pandas, Matlab, Tensorflow, Keras, Pytorch, Scikit, Numpy, OR-tools, Linux, Mysql,
 SPSS, Flexsim, Gurobi, Project, CAD, PROE
 
 ## Publications
