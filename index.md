@@ -1,6 +1,6 @@
 ## Biography
 I am currently a PhD candidate in the department of Computer Science, [Tulane University](https://tulane.edu/). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). My advisor is [Zizhan Zheng](https://www.cs.tulane.edu/~zzheng3/).
-My current research interests include Machine learning, Optimazation, Algorithms, NLP and Operations research. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
+My current research interests include Machine learning(DL and RL), Optimazation, NLP(Large Language Models) and Operations research. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
  *PhD* candidate, Computer Science, Tulane University, USA (now)
@@ -10,7 +10,7 @@ My current research interests include Machine learning, Optimazation, Algorithms
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Machine learning(DL and DRL), Optimization, Algorithms, NLP and Operations research
+Machine learning(DL and DRL), Optimization, NLP(Large Language Models) and Operations research
 
 ## Working Experience
 
@@ -21,6 +21,10 @@ Lecturer in Information Management Department
 Algorithm engineer and Project management assistant
 
 ## Internship Experience
+MultiPlan, (USA)Now
+AI Research Intern - Applied Large Language Models
+Research and development on Large Language Models
+
 Xuelangyun,
 Algorithm Engineer Intern
 
