@@ -21,8 +21,9 @@ Lecturer in Information Management Department
 Algorithm engineer and Project management assistant
 
 ## Internship Experience
-MultiPlan, (USA)Now
-AI Research Intern - Applied Large Language Models
+
+MultiPlan, (USA)Now\
+AI Research Intern - Applied Large Language Models\
 Research and development on Large Language Models
 
 Xuelangyun,
