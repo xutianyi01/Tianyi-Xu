@@ -26,19 +26,19 @@ MultiPlan, (USA)Now\
 AI Research Intern - Applied Large Language Models\
 Research and development on Large Language Models
 
-Xuelangyun,
+Xuelangyun,\
 Algorithm Engineer Intern
 
-China Automotive Technology and Research Center,
+China Automotive Technology and Research Center,\
 Quality Management Engineer Intern
 
-Caterpillar China,
+Caterpillar China,\
 Supply Chain Management Intern
 
-Danfoss China,
+Danfoss China,\
 IE Intern
 
-Amazon China,
+Amazon China,\
 Returned Goods Process Improver
 
 ## Languages and Skills
