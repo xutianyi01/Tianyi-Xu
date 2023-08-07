@@ -47,6 +47,8 @@ SPSS, Flexsim, Gurobi, Project, CAD, PROE
 
 ## Publications
 
+Henger Li, **Tianyi Xu**, Tao Li, Yunian Pan, Quanyan Zhu, Zizhan Zheng. [A First Order Meta Stackelberg Method for Robust Federated Learning (Technical Report)](https://arxiv.org/abs/2306.13273). ICML 2023 Workshop on the 2nd New Frontiers In Adversarial Machine Learning (ICML-AdvML).
+
 **Xu, T.**, Zhang, D., & Zheng, Z. [Online Learning for Adaptive Probing and Scheduling in Dense WLANs](https://arxiv.org/abs/2212.13585). IEEE International Conference on Computer Communications (INFOCOM), 2023.
 
 **Xu, T.**, Zhang, D., Pathak, P. H., & Zheng, Z. [Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297v3). IEEE Military Communications Conference (MILCOM), Nov. 2021.
