@@ -17,9 +17,6 @@ Machine learning(DL and DRL), Optimization, NLP(Large Language Models) and Opera
 Dalian Neusoft University of Information    
 Lecturer in Information Management Department
 
-14th Institution of China Electronics Technology Group Corporation   
-Algorithm engineer and Project management assistant
-
 ## Internship Experience
 
 MultiPlan, (USA)Now\
