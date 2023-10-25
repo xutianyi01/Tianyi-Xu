@@ -23,9 +23,6 @@ MultiPlan, (USA)Now\
 AI Research Intern - Applied Large Language Models\
 Research and development on Large Language Models
 
-Xuelangyun,\
-Algorithm Engineer Intern
-
 China Automotive Technology and Research Center,\
 Quality Management Engineer Intern
 
