@@ -20,8 +20,8 @@ Lecturer in Information Management Department
 ## Internship Experience
 
 MultiPlan, (USA)Now\
-AI Research Intern - Applied Large Language Models\
-Research and development on Large Language Models
+Research Intern \
+Research and development on pricing recommendations and Large Language Models
 
 China Automotive Technology and Research Center,\
 Quality Management Engineer Intern
