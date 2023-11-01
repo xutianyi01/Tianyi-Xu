@@ -10,7 +10,7 @@ My current research interests include Statistical learning(RL), Optimization, NL
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Statistical learning(RL), Optimization, NLP(Large Language Models) and Operations research
+Statistical learning(RL), Network Optimization, NLP(Large Language Models) and Operations research
 
 ## Working Experience
 
