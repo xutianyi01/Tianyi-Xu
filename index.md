@@ -19,7 +19,7 @@ Lecturer in Information Management Department
 
 ## Internship Experience
 
-MultiPlan, (USA)Now\
+MultiPlan, (USA)\
 Research Intern \
 Research and development on pricing recommendations and Large Language Models
 
