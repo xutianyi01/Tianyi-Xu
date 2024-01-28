@@ -1,6 +1,7 @@
 ## Biography
 I am currently a PhD candidate in the department of Computer Science, [Tulane University](https://tulane.edu/). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). My advisor is [Zizhan Zheng](https://www.cs.tulane.edu/~zzheng3/).
-My current research interests include Statistical learning(RL), Optimization, NLP(Large Language Models) and Operations research. If you have any question, please feel free to contact me. My email address is txu9@tulane.edu. 
+My current research interests include Reinforcement learning, Network and transportation optimization, Recommendation systems,
+NLP(large language models), Statistics, Deep learning, Optimization, and Operations research. If you have any questions, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
  *PhD* candidate, Computer Science, Tulane University, USA (now)
@@ -10,7 +11,8 @@ My current research interests include Statistical learning(RL), Optimization, NL
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Statistical learning(RL), Network Optimization, NLP(Large Language Models) and Operations research
+Reinforcement learning, Network and transportation optimization, Recommendation systems,
+NLP(large language models), Statistics, Deep learning, Optimization, Operations research
 
 ## Working Experience
 
@@ -21,7 +23,11 @@ Lecturer in Information Management Department
 
 MultiPlan, (USA)\
 Research Intern \
-Research and development on pricing recommendations and Large Language Models
+Large Language Model Design: According to Meta’s large language model diplomatic game Cicero, designing
+our own large language model diplomatic game (need to modify input, output, and model structure).
+Pricing Recommendation: Design a recommendation system using contextual bandits and the ClaimtoVec model to
+do pricing recommendations for three phases: Prepay, Postpay, Arbitration
+TextoSQL: Fine-tuning a large language model(T5) on our own dataset on problem question(text) to SQL.
 
 China Automotive Technology and Research Center,\
 Quality Management Engineer Intern
