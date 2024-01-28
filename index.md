@@ -24,9 +24,9 @@ Lecturer in Information Management Department
 MultiPlan, (USA)\
 Research Intern \
 Large Language Model Design: According to Meta’s large language model diplomatic game Cicero, designing
-our own large language model diplomatic game (need to modify input, output, and model structure).
+our own large language model diplomatic game (need to modify input, output, and model structure).\
 Pricing Recommendation: Design a recommendation system using contextual bandits and the ClaimtoVec model to
-do pricing recommendations for three phases: Prepay, Postpay, Arbitration
+do pricing recommendations for three phases: Prepay, Postpay, Arbitration\
 TextoSQL: Fine-tuning a large language model(T5) on our own dataset on problem question(text) to SQL.
 
 China Automotive Technology and Research Center,\
