@@ -22,7 +22,7 @@ Lecturer in Information Management Department
 ## Internship Experience
 
 MultiPlan, (USA)\
-Research Intern \
+AI Research Intern \
 Large Language Model Design: According to Meta’s large language model diplomatic game Cicero, designing
 our own large language model diplomatic game (need to modify input, output, and model structure).\
 Pricing Recommendation: Design a recommendation system using contextual bandits and the ClaimtoVec model to
