@@ -21,6 +21,10 @@ Lecturer in Information Management Department
 
 ## Internship Experience
 
+Splunk, (USA)\
+Machine Learning Applied Scientist Intern\
+Focus on LLM project
+
 MultiPlan, (USA)\
 AI Research Intern - Applied Large Language Models \
 Large Language Model Design: According to Meta’s large language model diplomatic game Cicero, designing
