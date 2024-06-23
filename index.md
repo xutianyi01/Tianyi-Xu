@@ -22,7 +22,8 @@ Lecturer in Information Management Department
 
 Splunk, (USA)\
 Machine Learning Applied Scientist Intern\
-Focus on LLM project
+TexttoSPL: Developed an LLM generator and evaluator for Chain of Thought (COT) using Llama3 70B and
+GPT-4, and employed COT to enhance our current fine-tuned LLM for converting questions to SPL query.
 
 MultiPlan, (USA)\
 AI Research Intern - Applied Large Language Models \
