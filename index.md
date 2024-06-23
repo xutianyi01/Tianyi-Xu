@@ -1,7 +1,7 @@
 ## Biography
 I am currently a PhD candidate in the department of Computer Science, [Tulane University](https://tulane.edu/). Previously I got my Master's and Bachelor's degrees both from [Tianjin University](http://www.tju.edu.cn/). My advisor is [Zizhan Zheng](https://www.cs.tulane.edu/~zzheng3/).
-My current research interests include Reinforcement learning, Network and transportation optimization, Recommendation systems,
-NLP(large language models), Statistics, Deep learning, Optimization, and Operations research. If you have any questions, please feel free to contact me. My email address is txu9@tulane.edu. 
+My current research interests include Reinforcement learning, NLP(large language models), Network and transportation optimization, Recommendation systems,
+ Statistics, Deep learning, Optimization, and Operations research. If you have any questions, please feel free to contact me. My email address is txu9@tulane.edu. 
 ## Education
 
  *PhD* candidate, Computer Science, Tulane University, USA (now)
@@ -11,8 +11,7 @@ NLP(large language models), Statistics, Deep learning, Optimization, and Operati
  *Bachelor of Engineering*, Industrial Engineering, Tianjin University, China
 
 ## Research Interests
-Reinforcement learning, Network and transportation optimization, Recommendation systems,
-NLP(large language models), Statistics, Deep learning, Optimization, Operations research
+Reinforcement learning, NLP(large language models), Network and transportation optimization, Recommendation systems, Statistics, Deep learning, Optimization, Operations research
 
 ## Working Experience
 
