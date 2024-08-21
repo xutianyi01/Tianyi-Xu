@@ -22,8 +22,7 @@ Lecturer in Information Management Department
 
 Splunk, (USA)\
 Machine Learning Applied Scientist Intern\
-Reasoning Fine-tuning for TexttoSPL: Developed an LLM generator and evaluator for Chain of Thought (COT) using Llama3 70B and
-GPT-4, and employed COT to enhance our current fine-tuned LLM for converting questions to SPL query.
+Collaborative Open-Source Agents for Enhancing Chain of Thought Reasoning Quality of SPL: Developed a method that LLM open-source agents collaborate to enhance CoT better than GPT4. Specifically, there are N LLM generators, one relative grader for Chain of Thought (COT) grading, and N iterative improvement agents for improving CoT quality. We tried different models like llama3 8B, phi3, gemma2 9B, and Llama3 70B. Our final score shows that we use open-source models to achieve results better than GPT-4o.
 
 MultiPlan, (USA)\
 AI Research Intern - Applied Large Language Models \
