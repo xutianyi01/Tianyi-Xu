@@ -51,6 +51,8 @@ Python, R, Pandas, Matlab, C, C++, Java, Tensorflow, Keras, Pytorch, Mysql, Git,
 
 Henger Li, **Tianyi Xu**, Tao Li, Yunian Pan, Quanyan Zhu, Zizhan Zheng. [A First Order Meta Stackelberg Method for Robust Federated Learning (Technical Report)](https://arxiv.org/abs/2306.13273). ICML 2023 Workshop on the 2nd New Frontiers In Adversarial Machine Learning (ICML-AdvML).
 
+**Xu, T.**, Chen, Y., Li, H., Bian, Z., Dall’Anese, E., Zheng, Z. Online Learning with Probing for Sequential User-Centric Selection. European Conference on Artificial Intelligence (ECAI), 2025.
+
 **Xu, T.**, Zhang, D., & Zheng, Z. [Online Learning for Adaptive Probing and Scheduling in Dense WLANs](https://arxiv.org/abs/2212.13585). IEEE International Conference on Computer Communications (INFOCOM), 2023.
 
 **Xu, T.**, Zhang, D., Pathak, P. H., & Zheng, Z. [Joint AP Probing and Scheduling: A Contextual Bandit Approach](https://arxiv.org/abs/2108.03297v3). IEEE Military Communications Conference (MILCOM), Nov. 2021.
