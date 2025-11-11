@@ -49,6 +49,8 @@ Python, R, Pandas, Matlab, C, C++, Java, Tensorflow, Keras, Pytorch, Mysql, Git,
 
 ## Publications
 
+**Xu, T.**, Liu, J., Mattei, N., & Zheng, Z. [Fair Algorithms with Probing for Multi-Agent Multi-Armed Bandits](https://arxiv.org/abs/2506.14988). AAAI Conference on Artificial Intelligence (AAAI), 2026.
+
 Henger Li, **Tianyi Xu**, Tao Li, Yunian Pan, Quanyan Zhu, Zizhan Zheng. [A First Order Meta Stackelberg Method for Robust Federated Learning (Technical Report)](https://arxiv.org/abs/2306.13273). ICML 2023 Workshop on the 2nd New Frontiers In Adversarial Machine Learning (ICML-AdvML).
 
 **Xu, T.**, Chen, Y., Li, H., Bian, Z., Dall’Anese, E., Zheng, Z. [Online Learning with Probing for Sequential User-Centric Selection](https://arxiv.org/abs/2507.20112). European Conference on Artificial Intelligence (ECAI), 2025.
